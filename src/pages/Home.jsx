@@ -35,3 +35,5 @@ return (
 </div>
 )
 }
+
+export default Home
