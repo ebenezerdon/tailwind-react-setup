@@ -25,7 +25,7 @@ return (
         </div>
     </div>
     <div class="flex flex-col items-center pb-10">
-        <img class="mb-3 w-24 h-24 rounded-full shadow-lg" src="https://github.com/Elishaokon13/vivian/blob/main/assets/img/Cr%C3%A4cky.JPG" alt="Vivian Afolabi"/>
+        <img class="mb-3 w-24 h-24 rounded-full shadow-lg" src="https://github.com/Elishaokon13/vivian/blob/main/assets/img/cräcky.png" alt="Vivian Afolabi"/>
         <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">Cräcky Brown</h5>
         <span class="text-sm text-gray-500 dark:text-gray-400">Visual Designer</span>
         <div class="flex mt-4 space-x-3 md:mt-6">
